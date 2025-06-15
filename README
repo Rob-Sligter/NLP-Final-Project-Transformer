@@ -1,7 +1,0 @@
-## Transformer Translation Model
-This repository contains a Transformer-based translation model implemented in PyTorch. The model is designed to translate text from French to English using a sequence-to-sequence architecture with attention mechanisms.
-
-## Background
-This Notebook was developed during the course Natual Language Processing at the University of Groningen.
-This project was assesed with a 95/100.
-
